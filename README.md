@@ -22,7 +22,7 @@ I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
-- 🫡 I’m currently learning ...
+- I’m currently learning ...
   
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -31,6 +31,5 @@ I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portu
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoManuelPereira&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinekuuhn&hide=TeX&layout=compact&theme=prussian)
 
-![Codewars](https://github.r2v.ch/codewars?user=FranciscoManuelPereira&stroke=%23BB432C)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FranciscoManuelPereira)
