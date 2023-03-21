@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portugal. With a background as a Sales Manager, and previous experience in the arts field as an actor of theater and cinema. I'm very enthusiastic towards technology. Seeking a junior position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portugal. I have experience in the arts field as a theater and cinema actor, as well as a background as a Sales Manager. I'm very enthusiastic towards technology. Seeking a junior position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscomanuelpereira/)
 
