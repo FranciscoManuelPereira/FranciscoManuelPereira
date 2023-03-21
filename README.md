@@ -17,12 +17,12 @@ I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portu
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![<Cloudinary>](https://img.shields.io/badge/-Cloudinary-2287c9?style=flat-square&logo=cloudinary&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![<Cyclic>](https://img.shields.io/badge/-Cyclic-2287c9?style=flat-square&logo=cyclic&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
-- I’m currently learning ...
+- I’m currently learning:
   
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
