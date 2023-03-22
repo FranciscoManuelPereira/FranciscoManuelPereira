@@ -38,24 +38,24 @@ I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portu
 <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
         <tr>
-          <td>
-            <img
-              src="https://github-readme-stats.vercel.app/api?username=FranciscoManuelPereira&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact"
-              alt="Francisco's GitHub Stats"
-            />
-          </td>
-          <td>
-            <img
-              src="https://streak-stats.demolab.com/?user=FranciscoManuelPereira&theme=tokyonight"
-              alt="Francisco's GitHub Stats"
-            />
-          </td><br>
            <td>
             <img
               src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoManuelPereira&hide=TeX&layout=compact&theme=tokyonight"
               alt="Francisco's GitHub Stats"
             />
           </td>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=FranciscoManuelPereira&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact"
+              alt="Francisco's GitHub Stats"
+            />
+          </td>         
+          <td>
+            <img
+              src="https://streak-stats.demolab.com/?user=FranciscoManuelPereira&theme=tokyonight"
+              alt="Francisco's GitHub Stats"
+            />
+          </td>       
         </tr>
       </thead>
     </table>
