@@ -49,7 +49,7 @@ I am Francisco Pereira, a **Junior Full-Stack Web Developer** from Lisbon, Portu
               src="https://streak-stats.demolab.com/?user=FranciscoManuelPereira&theme=tokyonight"
               alt="Francisco's GitHub Stats"
             />
-          </td>
+          </td><br>
            <td>
             <img
               src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoManuelPereira&hide=TeX&layout=compact&theme=tokyonight"
